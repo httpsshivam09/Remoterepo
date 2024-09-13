@@ -1,3 +1,3 @@
 # github-Repo
 This is my Github Repo 
-autther- Shivam Patel
+auther- Shivam Patel
